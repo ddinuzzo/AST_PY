@@ -1,0 +1,32 @@
+Scrivere una funzione che data una stringa definisca se questa é
+una parola (si definisce parola una concatenazione di sole
+lettere.)
+
+Scrivere una funzione che data una lista di stringhe restituisca la
+lista delle sole parole distinte presenti tra le stringhe.
+
+Scrivere una funzione che simuli l’estrazione del superenalotto (vedere
+modulo random)
+
+Scrivere una funzione python che prende come argomento un dizionario in cui
+ogni chiave `e una stringa ed il valore `e un intero. La funzione restituisce la lista ordinata di
+tutte le chiavi a cui corrisponde un valore pari.
+Ad esempio, per il dizionario
+{’topolino’:12, ’pluto’:3, ’minnie’:7, ’pippo’:4, ’qui’:3}
+la funzione deve restituire la lista
+[’pippo’,’topolino’]
+
+
+1. Scrivete una funzione che disegni una griglia come questa:
++ - - - - + - - - - +
+|         |         |
+|         |         |
+|         |         |
+|         |         |
++ - - - - + - - - - +
+|         |         |
+|         |         |
+|         |         |
+|         |         |
++ - - - - + - - - - +
+2. Scrivete una funzione che disegni una griglia simile, con quattro righe e quattro colonne.
